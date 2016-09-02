@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Utah Real Estate Experts]]></title>
         <description><![CDATA[Utah Real Estate Experts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/edward-frank-real-estate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 03:04:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 30 Aug 2016 23:42:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edward-frank-real-estate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Utah Real Estate Expert]]></title>
-            <description><![CDATA[<article><h1>Utah Real Estate Expert</h1><p>For All of your Utah Real Estate Needs contact Edward Frank,  Realtor Specialist</p></article>]]></description>
-            <link>undefinedutah-real-estate-expert/index.html</link>
+            <description><![CDATA[<p>For All of your Utah Real Estate Needs contact Edward Frank,  Broker</p>]]></description>
+            <link>https://thegrid.ai/edward-frank-real-estate/utah-real-estate-expert/index.html</link>
             <guid isPermaLink="false">4c2c3443-21f4-40e6-813d-d33f17181a1d</guid>
-            <pubDate>Mon, 01 Feb 2016 03:04:13 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2016 23:42:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
